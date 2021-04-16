@@ -1,6 +1,3 @@
-# EMR
-Electronic Medical Record (Django)
+E-governance framework
 
-patientmeds module need simple_rest (https://pypi.org/project/django-simple-rest/)
-
-a quick demo: https://xuxiaocun2008.wixsite.com/mysite/portfolio
+A single platform to handle all type of essential government services like : Water Manangement, Gas Supply, ELectricity demand and co,plain management, Pradhan Mantri Aswas Yojanana(PMAY). This framework enhances the transperancy between the government departments and the public.
